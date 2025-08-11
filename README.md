@@ -101,3 +101,17 @@ The main emotions that lead to poor human decisions are fear, and greed
 
 https://github.com/freqtrade/freqtrade
 
+## System Requirements
+
+**Hardware Requirements** (recommended):
+- 2GB RAM
+- 1GB disk space
+- 2vCPU
+
+**Software Requirements:**
+- We'll be using docker and docker compose to make it really easy to install it and also facilitating its development and portability as well
+
+**Development and workflow:**
+- We'll be using Visual Studio Code
+
+
