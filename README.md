@@ -10,10 +10,14 @@
 - Use parameters such as: price, volume, time, financial data, indicators, among others
 
 **How is Algorithmic Trading developed?**
-Algorithmic trading is developed following a main three-step process:
-1.- Come up with a trading idea
-2.- Turn it into a strategy (systematic and repeatable)
-3.- Transform it into an algorithm
+
+  Algorithmic trading is developed following a main three-step process:
+  
+  1.- Come up with a trading idea
+  
+  2.- Turn it into a strategy (systematic and repeatable)
+  
+  3.- Transform it into an algorithm
 
 **How is Algorithmic Trading developed?**
 - Once the Algorithmic Trading program is created, the next step is **backtesting**
