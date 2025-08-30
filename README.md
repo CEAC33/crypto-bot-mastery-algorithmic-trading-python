@@ -1,5 +1,7 @@
 # crypto-bot-mastery-algorithmic-trading-python
 
+# Introduction and Important Fundamentals
+
 ## Why Algorithmic Trading?
 
 **What is Algorithmic Trading**
@@ -113,5 +115,11 @@ https://github.com/freqtrade/freqtrade
 
 **Development and workflow:**
 - We'll be using Visual Studio Code
+
+# Establishing an Optimal Work Environment and the Right Workflow
+
+- Google Drive
+- Python
+- Telegram
 
 
